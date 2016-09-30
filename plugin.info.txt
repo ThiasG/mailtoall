@@ -1,0 +1,7 @@
+base   mailtoall
+author Matthias Grutzeck
+email  mailtoall@acc.grutzeck.net
+date   2016-09-30
+name   mailtoall plugin
+desc   Add mailto link with all email addresses in bcc
+url    https://github.com/ThiasG/mailtoall
